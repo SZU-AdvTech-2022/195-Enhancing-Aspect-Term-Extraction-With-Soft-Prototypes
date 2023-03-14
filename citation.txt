@@ -1,0 +1,7 @@
+@article{REPO-196,
+    author = "Chen, Zhuang and Qian, Tieyun",
+    journal = "Empirical Methods in Natural Language Processing (EMNLP)",
+    pages = "2107¨C2117",
+    title = "{Enhancing Aspect Term Extraction with Soft Prototypes}",
+    year = "2020"
+}
